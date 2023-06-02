@@ -1,6 +1,6 @@
-# Responsive vaksinotakcompany Website 🎃
+# Responsive vaksinotakcompany Website 
 ## [vaksinotakcompany)
-### Responsive vaksinotakcompany Website 🎃
+### Responsive vaksinotakcompany Website 
 
 - Responsive vaksinotakcompany Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
